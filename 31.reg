@@ -1,0 +1,3 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+"TcpAckFrequency"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000003
